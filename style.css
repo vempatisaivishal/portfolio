@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(247, 182, 170);
+}
+
+.heading{
+    
+    text-align: center;
+
+    
+}
+#pfp{
+   border-radius: 200px; 
+   width: 200px;
+   border: 5px solid black;
+}
+.about{
+    font-size: x-large;
+    font-weight: 500;
+    font-style: oblique;
+}
+.profiles{
+    padding: 10px;
+}
+.skills{
+    width: 80px;
+    padding: 20px;
+    background-color: rgba(157, 70, 211, 0.63);
+    border-radius: 80px;
+}
+.whatsapp{
+   
+   width: 200px;
+
+}
+.heading2{
+    text-align: center;
+    font-weight: 100;
+}
